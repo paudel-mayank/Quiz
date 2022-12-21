@@ -1,0 +1,23 @@
+main {
+  background-color: aliceblue;
+  padding: 20px;
+  width: 500px;
+}
+.score {
+  display: block;
+  float: right;
+  position: relative;
+  bottom: 10px;
+  color: green;
+}
+.question p {
+  background-color: brown;
+  padding: 8px 10px;
+  border-radius: 5px 10px 10px 10px;
+}
+p {
+  margin: 10px;
+  background-color: blue;
+  padding: 10px;
+  border-radius: 8px 10px;
+}
